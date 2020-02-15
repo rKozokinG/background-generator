@@ -1,11 +1,19 @@
 {
-  "name": "gradient-colors",
+  "name": "background-generator",
   "version": "1.0.0",
-  "description": "Site that show colors",
+  "description": "",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rKozokinG/background-generator.git"
+  },
   "author": "rKozokinG",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rKozokinG/background-generator/issues"
+  },
+  "homepage": "https://github.com/rKozokinG/background-generator#readme"
 }
